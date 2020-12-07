@@ -1,0 +1,1494 @@
+[13-Jan-2020 19:33:55 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 19:35:13 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 19:36:07 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 19:36:26 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 19:48:10 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 19:55:08 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 19:58:00 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 19:58:40 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 20:00:08 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 20:00:09 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 20:00:15 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 20:00:38 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 20:01:09 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 20:03:53 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[13-Jan-2020 20:04:43 America/Chicago] PHP Warning:  mysqli_connect(): Persistent connections are disabled. Downgrading to normal in /home2/alejandro/public_html/poll/config.php on line 2
+[19-Jan-2020 21:16:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[19-Jan-2020 21:16:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[19-Jan-2020 21:16:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[19-Jan-2020 21:17:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 19:49:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 19:50:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 18
+[26-Jan-2020 19:50:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 19:50:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 43
+[26-Jan-2020 19:50:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 19:56:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 19:56:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:56:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 19:57:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 43
+[26-Jan-2020 19:57:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 19:58:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:58:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:58:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:58:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:58:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:58:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 19:58:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 20:01:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 20:01:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 20:01:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 20:02:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 20:06:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 20:06:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 20:08:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alejandro/public_html/poll/config.php:15) in /home2/alejandro/public_html/poll/index.php on line 32
+[26-Jan-2020 20:08:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 20:10:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 20:10:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 20:10:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 20:16:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Jan-2020 20:26:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[27-Jan-2020 10:06:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[27-Jan-2020 17:02:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[29-Jan-2020 03:57:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[29-Jan-2020 19:56:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[29-Jan-2020 19:57:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[29-Jan-2020 19:57:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[29-Jan-2020 19:57:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[29-Jan-2020 19:57:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 18:09:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 18:25:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 18:27:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 18:29:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 18:35:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 18:38:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 18:42:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 18:42:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:20:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:20:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:20:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:20:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:28:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:28:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:28:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:32:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:35:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:35:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:36:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:36:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:37:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:37:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:37:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:37:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:37:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:37:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:39:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:39:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:41:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:41:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:41:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:46:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:46:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:51:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:51:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:51:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:52:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:52:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:52:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:52:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:54:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:55:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:55:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:55:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:56:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:56:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:56:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:56:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:56:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 19:57:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 20:01:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 20:09:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 20:09:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 20:10:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 20:12:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 20:12:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 20:13:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 20:13:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 20:14:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 20:14:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 20:17:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-Feb-2020 20:17:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:31:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:31:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:31:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:34:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:34:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:36:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:36:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:36:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:36:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:36:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:36:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:36:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:36:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:36:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:37:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:37:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:37:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:37:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:37:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:37:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:38:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:38:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:38:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:38:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:38:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:38:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:38:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:41:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:44:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:44:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:44:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:44:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:45:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:47:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:48:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:49:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:49:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:50:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:51:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:51:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:51:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:53:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:54:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:55:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:55:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 16:55:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:00:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:00:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:01:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:02:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:02:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:03:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:03:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:09:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:10:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:11:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:11:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:22:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:22:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:22:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:22:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:22:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:22:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:24:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:25:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:31:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:36:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:38:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:39:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:39:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:44:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 17:57:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 18:02:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 18:03:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 18:06:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 18:09:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 18:11:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/alejandro/public_html/poll/index.php on line 83
+[03-Feb-2020 18:11:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 18:12:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 18:12:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 18:13:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 18:51:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 18:57:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 19:47:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 19:47:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 19:48:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 19:53:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 19:53:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 19:53:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 19:54:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 19:54:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 19:54:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 19:55:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 19:55:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 20:34:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 20:34:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 20:34:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 20:35:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[03-Feb-2020 20:36:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Feb-2020 12:18:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Feb-2020 12:19:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Feb-2020 12:19:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Feb-2020 12:20:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Feb-2020 16:10:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[05-Feb-2020 12:21:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 11:21:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 11:21:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 11:22:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 11:24:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 11:30:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 11:46:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:03:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:03:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:20:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:28:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:28:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:34:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:39:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:41:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:45:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:45:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:48:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:49:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:49:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:50:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:54:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 12:55:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:00:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:15:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:15:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:18:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:20:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:20:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:21:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:21:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:25:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:25:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:25:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:26:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:26:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:26:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:31:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:31:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:31:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:32:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:33:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:34:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:35:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:36:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:37:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:39:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:39:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:41:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:41:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:44:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:44:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:47:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:49:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:49:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 13:51:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:01:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:09:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:10:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:10:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:11:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:20:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:20:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:20:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:21:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:21:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:23:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:23:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:23:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:25:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:26:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:26:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:31:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:31:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:32:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:32:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:32:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:34:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:34:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:47:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Feb-2020 14:47:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[10-Feb-2020 08:20:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[10-Feb-2020 08:21:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[10-Feb-2020 19:00:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[11-Feb-2020 09:35:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[11-Feb-2020 09:36:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[11-Feb-2020 09:36:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[14-Feb-2020 14:33:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[14-Feb-2020 14:33:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[14-Feb-2020 15:01:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Feb-2020 12:36:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Feb-2020 12:36:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Feb-2020 12:36:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Feb-2020 12:39:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Feb-2020 12:39:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Feb-2020 12:40:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Feb-2020 12:40:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Feb-2020 12:41:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Feb-2020 12:47:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Feb-2020 18:31:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Feb-2020 18:31:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[17-Feb-2020 21:21:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[17-Feb-2020 21:22:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[17-Feb-2020 21:23:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[19-Feb-2020 10:06:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[19-Feb-2020 10:06:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[19-Feb-2020 10:06:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[20-Feb-2020 09:07:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[23-Feb-2020 00:07:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[24-Feb-2020 18:20:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Feb-2020 12:26:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Feb-2020 12:27:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[26-Feb-2020 19:29:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[27-Feb-2020 16:55:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[12-Mar-2020 14:28:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[12-Mar-2020 21:31:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[12-Mar-2020 21:31:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[17-Mar-2020 04:03:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[22-Mar-2020 07:05:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[31-Mar-2020 22:14:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Apr-2020 12:33:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Apr-2020 12:35:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Apr-2020 20:29:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[05-Apr-2020 15:55:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[05-Apr-2020 15:55:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[05-Apr-2020 15:56:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[05-Apr-2020 15:56:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[05-Apr-2020 20:20:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[08-Apr-2020 16:20:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[08-Apr-2020 16:21:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[15-Apr-2020 19:59:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Apr-2020 17:08:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Apr-2020 17:09:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[22-Apr-2020 05:40:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[30-Apr-2020 10:51:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[30-Apr-2020 15:18:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[30-Apr-2020 15:18:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[01-May-2020 15:28:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[01-May-2020 18:11:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[01-May-2020 18:14:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[02-May-2020 21:29:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[12-May-2020 12:00:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[25-May-2020 12:39:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[09-Jun-2020 05:40:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[23-Jun-2020 12:31:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[30-Jun-2020 13:46:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[30-Jun-2020 13:48:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[30-Jul-2020 01:52:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Aug-2020 14:45:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Aug-2020 14:46:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Aug-2020 14:46:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Aug-2020 14:46:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Aug-2020 14:47:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[04-Aug-2020 14:47:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[20-Aug-2020 19:54:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[05-Sep-2020 08:41:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[05-Sep-2020 08:45:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[05-Sep-2020 08:45:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[12-Sep-2020 04:47:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[15-Sep-2020 15:10:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[21-Sep-2020 12:57:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[12-Nov-2020 10:10:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Nov-2020 08:35:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Nov-2020 08:35:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Nov-2020 08:35:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Nov-2020 08:35:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[16-Nov-2020 08:36:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12
+[23-Nov-2020 02:48:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home2/alejandro/public_html/poll/poll_to_xml.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/alejandro/public_html/poll/poll_to_xml.php on line 12

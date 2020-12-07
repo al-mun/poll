@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta content="width=device-width,initial-scale=1.0" name="viewport">
+	<title>Favorite Presidential Candidate</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+		<!--<script src="js/poll_animate.js"></script>-->
+	<script src="jquery-validation/dist/jquery.validate.js"></script>
+	<link href="jquery-validation/basic_form_styling.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="css/poll_styles.css">
+</head>
+
+<body>
+
+	<div id="container">
+		<header>
+			<h1>Who's Your Favorite Presidential Candidate?</h1>
+		</header>
+
+		<main>
+			<div id="vote">
+				<!--vote form code goes here-->
+
+				<h2>Vote Now!</h2>
+
+				<form id="poll_vote" name="poll_vote" method="post" action="">
+
+					<label>D. Mocrat</label>
+
+					<input type="radio" id="voteA" value="a" name="vote"/>
+
+					<br>
+
+					<label>R. Publican </label>
+					<input type="radio" id="voteB" value="b" name="vote"/>
+
+					<br>
+
+					<label>Undecided </label>
+					<input type="radio" id="voteC" value="c" name="vote"/>
+
+					<br>
+
+					<label for="vote" class="radioreq error"></label>
+					<br>
+
+					<label>Email:</label>
+					<input name="email" type="email" required id="email" placeholder="name@domain.com">
+
+					<label for="email" class="error">
+						
+					</label>
+
+					<br>
+
+					<label>Solve:
+       
+         
+		</label>
+
+
+					<input name="firstNum" type="hidden" id="firstNum" value="<?php echo $firstNum?>">
+					<input name="secondNum" type="hidden" id="secondNum" value="<?php echo $secondNum?>">
+
+
+					<input name="security" type="text" required id="security" size="2" maxlength="2">
+					<label for="security" class="error">
+	
+					</label>
+
+					<br>
+
+					<input type="submit" name="submit" id="submit" value="Submit">
+
+
+				</form>
+				<script>
+					$( "#poll_vote" ).validate( {
+						rules: {
+							vote: {
+								required: true
+							},
+							email: {
+								required: true
+							},
+							security: {
+								required: true
+							}
+						},
+						messages: {
+							vote: "Make a choice!",
+							email: {
+								required: "email required",
+								email: "Valid email address required."
+							}
+						}
+					} );
+				</script>
+
+
+				
+			</div>
+			<!--end div vote-->
+
+
+			
+
+		</main>
+		<!--end main-->
+
+
+	</div>
+	<!--end container-->
+
+
+</body>
+</html>
